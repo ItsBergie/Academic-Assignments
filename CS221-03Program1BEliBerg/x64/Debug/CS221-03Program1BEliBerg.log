@@ -1,5 +1,0 @@
-﻿  Package.cpp
-C:\Users\elirb\source\repos\CS221-03Program1BEliBerg\CS221-03Program1BEliBerg\Package.h(21,39): warning C4305: 'initializing': truncation from 'double' to 'const float'
-  (compiling source file 'Package.cpp')
-  
-  CS221-03Program1BEliBerg.vcxproj -> C:\Users\elirb\source\repos\CS221-03Program1BEliBerg\x64\Debug\CS221-03Program1BEliBerg.exe
