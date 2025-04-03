@@ -5,4 +5,6 @@ This is a list of files written for various programming assignments throughout m
 
 Timeline between 2021-2023 at Jefferson State Community College and 2023-2026 at University of Alabama in Huntsville.
 
-Classes include Intro to C++, Java, Python, Object Oriented Programming, Analysis of Algorithms, Computer Organization and Architecture, AI and Gaming... (More will be updated on completion of courses)
+Coding Languages: C++, Java, Python, ARM Assembly, ARM Thumb-1...
+
+Classes include Intro to C++, Intro to Java, Intro to Python, Object Oriented Programming, Design/Analysis of Algorithms, Computer Organization/Architecture, AI and Gaming... (More will be updated on completion of courses)
